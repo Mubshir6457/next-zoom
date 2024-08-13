@@ -17,7 +17,7 @@ export default function Home() {
       </div>
       <div>
         Staff Engineer, RYK
-        <div/><figure className="bg-blue-800"/>
+        <div/><figure className="bg-blue-500"/>
       </div>
     </figcaption>
   </div>
